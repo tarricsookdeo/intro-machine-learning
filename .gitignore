@@ -1,3 +1,9 @@
 ### Env ###
 .vscode
 .DS_Store
+local_settings.py
+
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
